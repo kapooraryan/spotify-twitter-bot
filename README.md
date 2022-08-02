@@ -9,6 +9,6 @@ Import required libraries, [Tweepy](https://www.tweepy.org/) and [Spotipy](https
 
 Have your necessary files like requirements.txt and Procfile for deployment on Heroku.
 
-Run spotify+twitter_bot.py
+Run spotify+twitter_bot.py .
 
 Code has been updated upon from https://github.com/haranlakha/spotify-tweet-bot
